@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prathmesh Magdum
 - 👀 I’m interested in Webdevelopment and Python Programming.
-- 🌱 I’m currently learning Cloud computing and NodeJS.
+- 🌱 I’m currently learning Cloud computing and Cyber Security.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> magdumprathmesh1247@gmail.com
 
